@@ -3,9 +3,8 @@
 A static Amazon homepage clone built using HTML and CSS.
 
 ## Features
-- Responsive layout
-- Navbar and footer
 - Product sections
+- Navbar and footer
 
 ## Technologies Used
 - HTML
