@@ -34,7 +34,7 @@
     border: 1px solid white;
 }
 
-/* box 2 */
+/* box-2 styling */
 .first {
     color: #cccccc;
     font-size: 0.85rem;
@@ -51,7 +51,7 @@
     align-items: center;
 }
 
-/* box 3 */
+/* box-3 styling */
 .nav-search {
     display: flex;
     justify-content: space-evenly;
@@ -92,7 +92,7 @@
     border: 2px solid orange;
 }
 
-/* box 4 */
+/* box 4 styling */
 span {
     font-size: 0.7rem;
 }
@@ -102,7 +102,7 @@ span {
     font-weight: 700;
 }
 
-/* box 6 */
+/* box 6 styling */
 .nav-cart i {
     font-size: 30px;
 }
@@ -176,7 +176,6 @@ span {
 }
 
 .box {
-    /* border: 2px solid black; */
     height: 400px;
     width: 23%;
     background-color: white;
